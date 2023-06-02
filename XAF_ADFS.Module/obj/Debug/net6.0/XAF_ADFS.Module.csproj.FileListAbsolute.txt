@@ -1,0 +1,12 @@
+C:\Users\anthony\Desktop\XAF_ADFS\XAF_ADFS.Module\bin\Debug\net6.0\XAF_ADFS.Module.deps.json
+C:\Users\anthony\Desktop\XAF_ADFS\XAF_ADFS.Module\bin\Debug\net6.0\XAF_ADFS.Module.dll
+C:\Users\anthony\Desktop\XAF_ADFS\XAF_ADFS.Module\bin\Debug\net6.0\XAF_ADFS.Module.pdb
+C:\Users\anthony\Desktop\XAF_ADFS\XAF_ADFS.Module\obj\Debug\net6.0\XAF_ADFS.Module.csproj.AssemblyReference.cache
+C:\Users\anthony\Desktop\XAF_ADFS\XAF_ADFS.Module\obj\Debug\net6.0\XAF_ADFS.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anthony\Desktop\XAF_ADFS\XAF_ADFS.Module\obj\Debug\net6.0\XAF_ADFS.Module.AssemblyInfoInputs.cache
+C:\Users\anthony\Desktop\XAF_ADFS\XAF_ADFS.Module\obj\Debug\net6.0\XAF_ADFS.Module.AssemblyInfo.cs
+C:\Users\anthony\Desktop\XAF_ADFS\XAF_ADFS.Module\obj\Debug\net6.0\XAF_ADFS.Module.csproj.CoreCompileInputs.cache
+C:\Users\anthony\Desktop\XAF_ADFS\XAF_ADFS.Module\obj\Debug\net6.0\XAF_ADFS.Module.dll
+C:\Users\anthony\Desktop\XAF_ADFS\XAF_ADFS.Module\obj\Debug\net6.0\refint\XAF_ADFS.Module.dll
+C:\Users\anthony\Desktop\XAF_ADFS\XAF_ADFS.Module\obj\Debug\net6.0\XAF_ADFS.Module.pdb
+C:\Users\anthony\Desktop\XAF_ADFS\XAF_ADFS.Module\obj\Debug\net6.0\ref\XAF_ADFS.Module.dll

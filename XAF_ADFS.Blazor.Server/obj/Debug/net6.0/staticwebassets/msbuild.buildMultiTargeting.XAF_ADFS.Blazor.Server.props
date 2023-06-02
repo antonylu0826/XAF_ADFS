@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\XAF_ADFS.Blazor.Server.props" />
+</Project>
